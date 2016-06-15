@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Red">#FF0000</color>
+    <color name="White">#FFFFFF</color>
+    <color name="Black">#000000</color>
+    <color name="btn_red_bg_color">#D65317</color>
+    <color name="btn_red_bg_color_pressed">#AE3600</color>
+    <color name="show_text_color">#FFFFFF</color>
+    <color name="select_text_color">#00FFFF</color>
+</resources>
